@@ -25,8 +25,7 @@ This repository contains my **Digital Literacy Portfolio** submitted as part of 
 
 ## 📁 Repository Structure
 
----
-
+```
 digital-literacy-project/
 ├── README.md                          
 ├── report/
@@ -80,14 +79,14 @@ Completed a beginner challenge on **HackerRank** and built a 5-question **Digita
 ### Task 4 – Email Etiquette (Module 4)
 Drafted two professional emails — one to a professor requesting a deadline extension, and one to an internship coordinator. Also created a Social Media Do's and Don'ts checklist.
 
-📄 See: (task-4-email-etiquette/emails.md)
+📄 See: [`task-4-email-etiquette/emails.md`](task-4-email-etiquette/emails.md)
 
 ---
 
 ### Task 5 – Cybercrime Awareness (Module 5)
 Researched **Phishing** as a cybercrime type, wrote a detailed case study, and compiled an 8-point prevention checklist tailored for college students in India.
 
-📄 See: (task-5-cybercrime/casestudy.md)
+📄 See: [`task-5-cybercrime/casestudy.md`](task-5-cybercrime/casestudy.md)
 
 🆘 **Report cybercrime at:** [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**
 
@@ -107,3 +106,4 @@ Researched **Phishing** as a cybercrime type, wrote a detailed case study, and c
 ---
 
 *Submitted via VITyarthi portal as part of CSE0001 – Digital Literacy*
+
