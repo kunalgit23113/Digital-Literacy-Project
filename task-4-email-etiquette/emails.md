@@ -4,7 +4,7 @@
 
 ## Email 1 – Requesting Assignment Deadline Extension
 
-**To:** professor.lastname@vitbhopal.ac.in
+**To:** professor.kannan@vitbhopal.ac.in
 **Subject:** Request for Assignment Deadline Extension – [Course Name] – [Your Name] – [Reg. No.]
 
 Dear Dr.KANNAN sir,
